@@ -1,6 +1,3 @@
-This software was created by Tyrrrz and Playz Development.
-_________________________________________________________________________________________________________________________________________________________________________
-
 ## Authors
 - [@Tyrrrz](https://github.com/Tyrrrz) (Original developer of YouTube Downloader) - No longer an active developer of this project
 
