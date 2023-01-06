@@ -9,5 +9,5 @@ ________________________________________________________________________________
 ## Important information:
 
 - [@Tyrrrz](https://github.com/Tyrrrz) is no longer actively developing this project, due to Tyrrrz being a Ukrainian citizen and the ongoing war in Ukraine.
-- [@PlayzDev](https://github.com/PlayzDev) has taken over the active development of this project.
+- So [@PlayzDev](https://github.com/PlayzDev) has taken over the active development of this project.
 _________________________________________________________________________________________________________________________________________________________________________
