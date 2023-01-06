@@ -1,5 +1,6 @@
-# Important information - (This project has switched developers):
+# Important information:
 
+## - This project has been taken over by a different developer
 
 ### Former developer of YouTube Downloader:
 
