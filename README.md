@@ -6,5 +6,5 @@ ________________________________________________________________________________
 
 ## Current developer of YouTube Downloader
 
-- [@PlayzDev](https://github.com/PlayzDev) has now taken over active development of this project.
+- [@PlayzDev](https://github.com/PlayzDev) has now taken over active development of YouTube Downloader.
 _________________________________________________________________________________________________________________________________________________________________________
